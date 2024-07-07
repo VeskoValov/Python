@@ -1,7 +1,5 @@
 # Python
  This is a collection of tasks that were interesting to me.
- Disclaimer! 
- Some of the tasks may be still work in progress. I plan to finish them in my free time.
  
 Candy Task:
 ![image](https://github.com/VeskoValov/Python/assets/72752458/35a00691-f6ac-4e60-a23d-ecb88c3cf286)
