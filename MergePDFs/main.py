@@ -146,9 +146,3 @@ def encrypt_pdf(pdf_path, output='encrypted.pdf', password='secretpassword'):
         # Save the output to a new PDF file
         with open(output, 'wb') as output_file:
             pdf_writer.write(output_file)
-
-
-if __name__ == '__main__':
-    merge_pdfs(['KBS_Lecture9_2223.pdf', 'KBS_Lecture10_2223.pdf', 'KBS_Lecture11_2223.pdf', 'KBS_Lecture12_2223.pdf',
-                'KBS_Lecture13_2223.pdf', 'KBS_Lecture14_2223.pdf', 'KBS_Lecture15_2223.pdf', 'KBS_Lecture16_2223.pdf',
-                'KBS_Lecture17_2223.pdf'])
