@@ -1,0 +1,1 @@
+This is a short program that merges any number of pdf files together. Created using PyPDF2.
